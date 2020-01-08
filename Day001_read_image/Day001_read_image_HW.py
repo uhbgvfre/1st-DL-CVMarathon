@@ -10,7 +10,6 @@
 
 # In[4]:
 
-
 import cv2
 
 img_path = 'images/ccat.jpg'
